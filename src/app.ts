@@ -7,3 +7,5 @@ export const { app, listen } = new App({
   middlewares: [json(), urlencoded({ extended: true })],
   controllers: [Home]
 })
+
+let n
