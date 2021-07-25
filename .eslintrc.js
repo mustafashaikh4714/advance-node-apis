@@ -17,6 +17,6 @@ module.exports = {
     '@typescript-eslint/no-non-null-assertion': 'off',
     '@typescript-eslint/no-namespace': 'off',
     '@typescript-eslint/no-unused-vars': 'error',
-    'prettier/prettier': 'warn'
+    'prettier/prettier': 'error'
   }
 }
